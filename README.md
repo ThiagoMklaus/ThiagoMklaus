@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Thiago Miranda 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/ThiagoMklaus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMklaus&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMklaus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMklaus&layout=compact&langs_count=6&theme=blue_navy"/>
 </div>
     
